@@ -1,4 +1,4 @@
-# Python Login Operators (and, or, not) :
+# Python Logical Operators (and, or, not) :
 
 """
 AND Operator in Python
