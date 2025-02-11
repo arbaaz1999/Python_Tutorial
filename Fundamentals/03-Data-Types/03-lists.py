@@ -86,3 +86,9 @@ a = [
 
 for i in a:
     print(f"{i}")
+
+
+""" 8. Nested Lists in Python """
+matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12]]
+
+print("Access the element of 2d array -> matrix[1][1] : ", matrix[1][1])
