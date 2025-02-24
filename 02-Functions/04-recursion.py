@@ -62,19 +62,3 @@ def non_tail_fact(n):
 
 print(tail_fact(5))
 print(non_tail_fact(5))
-
-
-def nthFibonacci(n: int) -> int:
-    # code here
-    n1, n2 = 0, 1
-    n3 = n1 + n2
-    for i in range(n):
-        n1 = n2
-        n2 = n3
-        n3 = n1 + n2
-
-    return n3
-
-
-p = 5
-print(f"{p}th fibonacci number is {nthFibonacci(p)}")
