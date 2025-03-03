@@ -127,9 +127,5 @@ def fun(cls):
 class Person:
     pass
 
-
 print(Person.person_name)
 print(Person.greet())
-
-
-""" 4. Common Built-in Decorators in Python """
