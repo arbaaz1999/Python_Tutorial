@@ -57,7 +57,7 @@ flatten = [val for row in a for val in row]
 print(flatten)
 
 
-names = ["Arbaz", "Moien", "Amreen"]
+names = ["Arbaaz", "Moien", "Amreen"]
 scores = [1, 2]
 
 res = zip(names, scores)
